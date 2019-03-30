@@ -1,0 +1,30 @@
+---
+title: "Nation of Lunda "
+date: "1665 - 1887"
+region: "Lunda"
+country: "Angola" 
+type: "Kingdoms"
+sort: 1665
+countries: "Angola,DRC,Zambia"
+types: "Kingdoms,Military"
+img: [{name: '', desc: ''}]
+vid: [
+       {url:  'https://www.youtube.com/embed/IYOone8RZWc', title: 'Legendary Heroes: The Luba and Lunda Empires'},
+       
+    ]
+links: []
+url: [
+        {id: 1, url: '', title: '', desc: '' }
+    ]
+refs: [
+     {id: 1,  ref: 'Wikipedia contributors. (2018, September 6). Kingdom of Lunda. In Wikipedia, The Free Encyclopedia. Retrieved 19:50, February 3, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Kingdom_of_Lunda&oldid=858262296'}
+    ]
+---
+The Nation of Lunda (c. 1665 CE – c. 1887 CE) was a confederation of states in what is now the Democratic Republic of Congo, north-eastern Angola, and north-western Zambia, its central state was in Katanga.
+
+The Lunda Kingdom controlled some 150,000 km2 by 1680. The state doubled in size to around 300,000 km2 at its height in the nineteenth century. The Mwata Yamvos of Lunda became powerful militarily from their base of 175,000 inhabitants. Through marriage with descendants of the Luba kings, they gained political ties.
+
+The kingdom of Lunda came to an end in the nineteenth century, when it was invaded by the Chokwe, who were armed with guns. The Chokwe then established their own kingdom with their language and customs. Lunda chiefs and people continued to live in the Lunda heartland but were diminished in power.
+
+Read more:
+https://en.wikipedia.org/wiki/Kingdom_of_Lunda

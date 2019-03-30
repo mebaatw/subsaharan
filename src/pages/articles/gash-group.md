@@ -1,0 +1,22 @@
+---
+title: "Gash Group"
+date: "2500 BCE - 1500 BCE"
+region: "Eritrea"
+country: "Eritrea" 
+type: "Settlements"
+sort: -2500
+countries: "Eritrea"
+types: "Settlements"
+img: [{name: '', desc: ''}]
+vid: [
+        
+    ]
+links: []
+url: [
+        {id: 1, url: '', title: '', desc: '' }
+    ]
+refs: [
+         {id: 1,  ref: 'Wikipedia contributors. (2019, February 1). Eritrea. In Wikipedia, The Free Encyclopedia. Retrieved 22:03, February 3, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Eritrea&oldid=881297704'}
+    ]
+---
+Excavations in and near Agordat in central Eritrea yielded the remains of an ancient pre-Aksumite civilization known as the Gash Group. Ceramics were discovered that were related to those of the C-Group (Temehu) pastoral culture, which inhabited the Nile Valley between 2500–1500 BC. Some sources dating back to 3500 BC. Shards akin to those of the Kerma culture, another community that flourished in the Nile Valley around the same period, were also found at other local archaeological sites in the Barka valley belonging to the Gash Group. According to Peter Behrens (1981) and Marianne Bechaus-Gerst (2000), linguistic evidence indicates that the C-Group and Kerma peoples spoke Afroasiatic languages of the Berber and Cushitic branches, respectively.

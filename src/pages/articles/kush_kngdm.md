@@ -1,0 +1,43 @@
+---
+title: "Kingdom of Kush"
+date: "785 BCE"
+region: ""
+country: "Sudan" 
+type: "Kingdoms"
+sort: -785
+countries: "Sudan,Egypt"
+types: "Kingdoms"
+img: [{name: '', desc: ''}]
+vid: [
+       {url:  'https://www.youtube.com/embed/b86XE3TbXg0', title: 'The Kush Empire | National Geographic'},
+       {url:  'https://www.youtube.com/embed/xtUfdP8GlB8', title: 'Ancient Nubia - Kingdom Of Kush'},
+       {url:  'https://www.youtube.com/embed/oG7GcpOqCPE', title: 'he Ancient Kingdom of Kush - Nubian Kingdom (Egypt/Sudan)'},
+       {url:  'https://www.youtube.com/embed/0mf7wG6QEfQ', title: 'The Nubian Kingdom of Kush'},
+       {url:  'https://www.youtube.com/embed/9P_XfuqDA7I', title: '16 New Pyramids Found in Sudan from Ancient Kingdom of Kush'} ,
+        
+    ]
+links: []
+url: [
+        {id: 1, url: '', title: '', desc: '' }
+    ]
+refs: [
+     {id: 1,  ref: 'Wikipedia contributors. (2019, January 30). Kingdom of Kush. In Wikipedia, The Free Encyclopedia. Retrieved 20:16, February 3, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Kingdom_of_Kush&oldid=880986192'}
+    ]
+---
+The Kingdom of Kush was an ancient kingdom in Nubia, located at the Sudanese and southern Egyptian Nile Valley.
+
+The Kushite era of rule in Nubia was established after the Late Bronze Age collapse and the disintegration of the New Kingdom of Egypt. Kush was centered at Napata during its early phase. After Kashta ("the Kushite") invaded Egypt in the 8th century BC, the monarchs of Kush were also the pharaohs of the Twenty-fifth Dynasty of Egypt, until they were expelled by the Neo-Assyrian Empire under the rule of Esarhaddon a century later.
+
+During classical antiquity, the Kushite imperial capital was located at Meroë. In early Greek geography, the Meroitic kingdom was known as Aethiopia. The Kingdom of Kush with its capital at Meroe persisted until the 4th century AD, when it weakened and disintegrated due to internal rebellion. The seat was eventually captured and burnt to the ground by the Kingdom of Aksum. Afterwards the Nubians established the three, eventually Christianized, kingdoms of Nobatia, Makuria and Alodia.
+
+Mentuhotep II, the 21st century BC founder of the Middle Kingdom, is recorded to have undertaken campaigns against Kush in the 29th and 31st years of his reign. This is the earliest Egyptian reference to Kush; the Nubian region had gone by other names in the Old Kingdom. Under Thutmose I, Egypt made several campaigns south. This eventually resulted in their annexation of Nubia circa 1504 BC. After the conquest, Kerma culture was increasingly Egyptianized, yet rebellions continued for 220 years until c. 1300 BC. During the New Kingdom, Nubia nevertheless became a key province of the New Kingdom, economically, politically and spiritually. Indeed, major Pharonic ceremonies were held at Jebel Barkal near Napata. As an Egyptian colony from the 16th century BC, Nubia ("Kush") was governed by an Egyptian Viceroy of Kush. With the disintegration of the New Kingdom around 1070 BC, Kush became an independent kingdom centered at Napata in modern northern Sudan.
+
+The extent of cultural/political continuity between the Kerma culture and the chronologically succeeding Kingdom of Kush is difficult to determine. The latter polity began to emerge around 1000 BC, 500 years after the end of the Kingdom of Kerma. By 1200 BC, Egyptian involvement in the Dongola Reach was nonexistent. By the 8th century BC, the new Kushite kingdom emerged from the Napata region of the upper Dongola Reach. The first Napatan king, Alara, dedicated his sister to the cult of Amun at the rebuilt Kawa temple, while temples were also rebuilt at Barkal and Kerma. A Kashta stele at Elephantine, places the Kushites on the Egyptian frontier by the mid-eighteenth century. This first period of the kingdom's history, the 'Napatan', was succeeded by the 'Meroitic', when the royal cemeteries relocated to Meroe around 300 BC.
+
+The Kushites buried their monarchs along with all their courtiers in mass graves. Archaeologists refer to these practices as the "Pan-grave culture". This was given its name due to the way in which the remains are buried. They would dig a pit and put stones around them in a circle. Kushites also built burial mounds and pyramids, and shared some of the same gods worshiped in Egypt, especially Ammon and Isis. With the worshiping of these gods the Kushites began to take some of the names of the gods as their throne names.
+
+The Kush rulers were regarded as guardians of the state religion and were responsible for maintaining the houses of the gods. Some scholars believe the economy in the Kingdom of Kush was a redistributive system. The state would collect taxes in the form of surplus produce and would redistribute to the people. Others believe that most of the society worked on the land and required nothing from the state and did not contribute to the state. Northern Kush seemed to be more productive and wealthier than the Southern area.
+
+Dental trait analysis of fossils dating from the Meroitic period in Semna, Nubia, found that they were closely related to Afroasiatic-speaking populations inhabiting the Nile, Horn of Africa, Maghreb and Canary Islands. The Meroitic skeletons and these ancient and recent fossils were also phenotypically distinct from those belonging to recent Niger–Congo, Nilo-Saharan and Khoisan-speaking populations in Sub-Saharan Africa, as well as from the Mesolithic inhabitants of Jebel Sahaba in Nubia.
+
+Read more: https://en.wikipedia.org/wiki/Kingdom_of_Kush

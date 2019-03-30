@@ -1,0 +1,352 @@
+
+[
+  {
+    "id":"1" ,
+    "code": "ng",
+    "name": "Nigeria",
+  "ext":"svg"
+  },
+  {
+    "id": "22",
+    "code": "gh",
+    "name": "Ghana",
+  "ext":"svg"
+  },
+  {
+    "id": "31",
+    "code": "ml",
+    "name": "Mali",
+  "ext":"svg"
+  },
+  {
+    "id": "32",
+    "code": "mr",
+    "name": "Mauritania",
+  "ext":"svg"
+  },
+  {
+    "id": "38",
+    "code": "ne",
+    "name": "Niger",
+  "ext":"svg"
+  },
+  {
+    "id": "18",
+    "code": "er",
+    "name": "Eritrea",
+  "ext":"svg"
+  },
+  {
+    "id": "19",
+    "code": "et",
+    "name": "Ethiopia",
+  "ext":"svg"
+  },
+  {
+    "id": "2",
+    "code": "ao",
+    "name": "Angola",
+  "ext":"svg"
+  },
+  {
+    "id": "3",
+    "code": "bj",
+    "name": "Benin",
+  "ext":"svg"
+  },
+  {
+    "id": "4",
+    "code": "bw",
+    "name": "Botswana",
+  "ext":"svg"
+  },
+  {
+    "id": "5",
+    "code": "bf",
+    "name": "Burkina Faso",
+  "ext":"svg"
+  },
+  {
+    "id": "6",
+    "code": "bi",
+    "name": "Burundi",
+  "ext":"svg"
+  },
+  {
+    "id": "7",
+    "code": "cm",
+    "name": "Cameroon",
+  "ext":"svg"
+  },
+  {
+    "id": "8",
+    "code": "cv",
+    "name": "Cape Verde",
+  "ext":"svg"
+  },
+  {
+    "id": "9",
+    "code": "cf",
+    "name": "Central African Republic",
+  "ext":"svg"
+  },
+  {
+    "id": "10",
+    "code": "td",
+    "name": "Chad",
+  "ext":"svg"
+  },
+  {
+    "id": "11",
+    "code": "km",
+    "name": "Comoros",
+  "ext":"svg"
+  },
+  {
+    "id": "12",
+    "code": "cg",
+    "name": "Congo",
+  "ext":"svg"
+  },
+  {
+    "id": "13",
+    "code": "cd",
+    "name": "Congo, The Democratic Republic of the ",
+  "ext":"svg"
+  },
+  {
+    "id": "14",
+    "code": "ci",
+    "name": "Cote d'Ivoire",
+  "ext":"svg"
+  },
+  {
+    "id": "15",
+    "code": "dj",
+    "name": "Djibouti",
+  "ext":"svg"
+  },
+  {
+    "id": "16",
+    "code": "eg",
+    "name": "Egypt",
+  "ext":"svg"
+  },
+  {
+    "id": "17",
+    "code": "gq",
+    "name": "Equatorial Guinea",
+  "ext":"svg"
+  },
+  {
+    "id": "20",
+    "code": "ga",
+    "name": "Gabon",
+  "ext":"svg"
+  },
+  {
+    "id": "21",
+    "code": "gm",
+    "name": "Gambia",
+  "ext":"svg"
+  },
+  {
+    "id": "23",
+    "code": "gn",
+    "name": "Guinea",
+  "ext":"svg"
+  },
+  {
+    "id": "24",
+    "code": "gw",
+    "name": "Guinea-Bissau",
+  "ext":"svg"
+  },
+  {
+    "id": "25",
+    "code": "ke",
+    "name": "Kenya",
+  "ext":"svg"
+  },
+  {
+    "id": "26",
+    "code": "ls",
+    "name": "Lesotho",
+  "ext":"svg"
+  },
+  {
+    "id": "27",
+    "code": "lr",
+    "name": "Liberia",
+  "ext":"svg"
+  },
+  {
+    "id": "28",
+    "code": "ly",
+    "name": "Libya",
+  "ext":"svg"
+  },
+  {
+    "id": "29",
+    "code": "mg",
+    "name": "Madagascar",
+  "ext":"svg"
+  },
+  {
+    "id": "30",
+    "code": "mw",
+    "name": "Malawi",
+  "ext":"svg"
+  },
+  {
+    "id": "33",
+    "code": "mu",
+    "name": "Mauritius",
+  "ext":"svg"
+  },
+  {
+    "id": "34",
+    "code": "yt",
+    "name": "Mayotte",
+  "ext":"svg"
+  },
+  {
+    "id": "35",
+    "code": "ma",
+    "name": "Morocco",
+  "ext":"svg"
+  },
+  {
+    "id": "36",
+    "code": "mz",
+    "name": "Mozambique",
+  "ext":"svg"
+  },
+  {
+    "id": "37",
+    "code": "na",
+    "name": "Namibia",
+  "ext":"svg"
+  },
+  {
+    "id": "39",
+    "code": "dz",
+    "name": "Algeria",
+    "ext":"svg"
+  },
+  {
+    "id": "40",
+    "code": "re",
+    "name": "Reunion",
+  "ext":"svg"
+  },
+  {
+    "id": "41",
+    "code": "rw",
+    "name": "Rwanda",
+  "ext":"svg"
+  },
+  {
+    "id": "42",
+    "code": "sh",
+    "name": "Saint Helena",
+  "ext":"svg"
+  },
+  {
+    "id": "43",
+    "code": "st",
+    "name": "Sao Tome and Principe",
+  "ext":"svg"
+  },
+  {
+    "id": "44",
+    "code": "sn",
+    "name": "Senegal",
+  "ext":"svg"
+  },
+  {
+    "id": "45",
+    "code": "sc",
+    "name": "Seychelles",
+  "ext":"svg"
+  },
+  {
+    "id": "46",
+    "code": "sl",
+    "name": "Sierra Leone",
+  "ext":"svg"
+  },
+  {
+    "id": "47",
+    "code": "so",
+    "name": "Somalia",
+  "ext":"svg"
+  },
+  {
+    "id": "48",
+    "code": "za",
+    "name": "South Africa",
+  "ext":"svg"
+  },
+  {
+    "id": "49",
+    "code": "ss",
+    "name": "South Sudan",
+  "ext":"svg"
+  },
+  {
+    "id": "50",
+    "code": "sd",
+    "name": "Sudan",
+  "ext":"svg"
+  },
+  {
+    "id": "51",
+    "code": "sz",
+    "name": "Swaziland",
+  "ext":"svg"
+  },
+  {
+    "id": "52",
+    "code": "tz",
+    "name": "Tanzania",
+  "ext":"svg"
+  },
+  {
+    "id": "53",
+    "code": "tg",
+    "name": "Togo",
+  "ext":"svg"
+  },
+  {
+    "id": "54",
+    "code": "tn",
+    "name": "Tunisia",
+  "ext":"svg"
+  },
+  {
+    "id": "55",
+    "code": "ug",
+    "name": "Uganda",
+  "ext":"svg"
+  },
+  {
+    "id": "56",
+    "code": "eh",
+    "name": "Western Sahara",
+  "ext":"svg"
+  },
+  {
+    "id": "57",
+    "code": "zm",
+    "name": "Zambia",
+  "ext":"svg"
+  },
+  {
+    "id": "58",
+    "code": "zw",
+    "name": "Zimbabwe",
+    "ext":"svg"
+  }
+
+]

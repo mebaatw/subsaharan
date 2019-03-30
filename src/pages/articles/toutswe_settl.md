@@ -1,0 +1,28 @@
+---
+title: "Toutswe Hill Farming Culture"
+date: "600-700 CE and 1200-1300 CE"
+region: "Botswana"
+country: "Botswana" 
+type: "Settlements"
+sort: 600
+countries: "Botswana"
+types: "Settlements,Agriculture,Trade"
+img: [{name: '', desc: ''}]
+vid: [
+        
+    ]
+links: []
+url: [
+        {id: 1, url: '', title: '', desc: '' }
+    ]
+refs: [
+         {id: 1,  ref: 'Wikipedia contributors. (2018, June 13). Toutswemogala Hill. In Wikipedia, The Free Encyclopedia. Retrieved 21:31, February 3, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Toutswemogala_Hill&oldid=845763000'}
+    ]
+---
+Toutswemogala is an Iron Age settlement Hill in Botswana situated about 50 km north of the village of Palapye.  It , which has been occupied on two different occasions. The radio-carbon dates for this settlement range from 7th to late 19th century AD indicating occupation of more than one thousand years. 
+
+Around 700 A.D., the Toutswe people moved westward into Botswana and began an agricultural and pastoral land tenure system based on sorghum and millet, and domesticated stock, respectively.  The hill was part of the formation of early states in Southern Africa with cattle  keeping as major source of economy. This was supplemented by goats, sheep and foraging as well as hunting of wild animals. The Toutswe people were also hunting westwards into the Kalahari and trading eastwards with the Limpopo. East coast shells, used as trade currency, were already being traded as far west as Tsodilo by 700AD.
+
+The site was situated in the center of a broader cultural area in Eastern Botswana and shares many commonalities with other archaeological sites of this region, in both ceramic production styles and also timeframes inhabited. Large structures were observed that contained vitrified remains of animal dung, leading to the theory that these were animal enclosures and that Toutswemogala Hill was thus a major center of animal husbandry in the region. However, agriculture also played a vital role in the longevity of Toutswemogala Hill's extended occupation, as many grain storage structures have also been found on the site. Many different stratified layers of housing floors further signal continuous occupation over hundreds of years.
+
+The remaining features of Toutswe settlement include house-floors, large heaps of vitrified cow-dung and burials while the outstanding structure is the stone wall. There are large traits of centaurs ciliaris, a type of grass which has come to be associated with cattle-keeping settlements in South, Central Africa. This site was added to the UNESCO World Heritage Tentative List on July 21, 1999 in the Cultural category.

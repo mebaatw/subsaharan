@@ -1,0 +1,22 @@
+
+.link{
+    margin: 0rem;
+}
+
+.excerpt{
+    padding: .5rem;
+}
+
+.title{
+    margin: 0rem; 
+    padding: .4rem;
+}
+
+.greyout{
+    color: #bbb;
+}
+
+.ref{
+    padding: 1rem;
+     margin: 0px;
+}
